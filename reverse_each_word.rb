@@ -1,4 +1,4 @@
-
+words_reversed = ["olleH, ereht dna woh era ?uoy"]
 
 
 
